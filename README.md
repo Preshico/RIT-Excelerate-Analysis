@@ -15,7 +15,7 @@ This project analyzes learner engagement data from the **RIT Excelerate platform
 
 The goal was to understand **why learners apply but do not start**, build a machine learning model to predict the probability of a learner progressing to Started status, and deliver actionable recommendations to improve platform performance.
 
-> *Completed as part of a collaborative AI Powered Data Analysis Internship with Excelerate x RIT. My personal contributions covered data cleaning, exploratory data analysis, report writing, insights, and strategic recommendations.*
+> *Team project with Excelerate x RIT in which I completed the end-to-end analysis. Cleaned and explored 8,554 learner records across 71 countries to find why learners apply but never start. Trained 5 ML models (Random Forest best, ROC-AUC 0.998) and delivered 5 strategic recommendations with a measurement framework.*
 
 ---
 
